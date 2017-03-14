@@ -1,0 +1,15 @@
+*vim-ide.txt*	               For Vim version 7.3	      Last change: 2017 Mar 13
+
+                                    Vim IDE 
+
+==============================================================================
+CONTENTS                                                        *vtr-contents*
+
+      1. About............................ |VIDE-About|
+
+==============================================================================
+ABOUT (1)                                                           *VIDE-About*
+
+VIDE -- Setup VIM as an IDE. 
+
+This plugin uses Vim to send tmux commands to setup an IDE.
