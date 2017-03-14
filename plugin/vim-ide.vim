@@ -67,5 +67,5 @@ function! s:Initialize()
   endif
 endfunction
 
-let g:vide_turn_ide_on = 0
+let g:vide_turn_ide_on = 1
 call s:Initialize()
