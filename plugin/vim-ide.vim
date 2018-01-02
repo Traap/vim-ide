@@ -53,7 +53,7 @@ function! s:DefineCommands()
 endfunction
 
 function! s:DefineKeymaps()
-  nnoremap ide :VideToggleIde<cr>
+  nnoremap ]i :VideToggleIde<cr>
 endfunction
 
 function! s:Initialize()
